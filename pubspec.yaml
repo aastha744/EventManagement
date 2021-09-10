@@ -1,0 +1,57 @@
+name: yozana
+description: A new Flutter project.
+
+dependencies:
+  cloud_firestore:
+  firebase_auth:
+  rxdart:
+  google_sign_in:
+  flutter:
+    sdk: flutter
+  carousel_pro: ^0.0.13
+  cupertino_icons: ^0.1.0
+  font_awesome_flutter: ^8.2.0
+  shared_preferences: ^0.5.2
+  sqflite: any
+  path_provider: any
+  share: ^0.6.1+1
+  firebase_messaging: ^5.1.2
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/yozanaa.png
+    - assets/events.jpg
+    - assets/yozana.jpg
+    - assets/hotel.png
+    - assets/decoration.png
+    - assets/party.png
+    - assets/photography.png
+    - assets/summit.jpg
+    - assets/decorators.jpg
+    - assets/partyy.jpg
+    - assets/photographers.webp
+    - assets/baby.jpg
+    - assets/birthday.jpg
+    - assets/bratabandha.jpg
+    - assets/wedding.jpg
+    - assets/rice.png
+    - assets/restaurant.jpg
+    - assets/wonder.jpg
+    - assets/annapurna.jpg
+    - assets/himalayan.jpg  
+    - assets/booknow.jpg
+    - assets/lights.jpg 
+    
+    
+    
+  fonts:
+      - family: Nunito
+        fonts:
+          - asset: assets/Nunito.ttf
